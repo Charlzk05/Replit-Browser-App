@@ -7,4 +7,4 @@ Replit Desktop Browser App with C# Cefsharp Winforms
 - Cefsharp.Winforms
 
 ### Preview
-![image](https://user-images.githubusercontent.com/104715127/183337184-3315febd-29f4-45d4-aa1b-2cf3654548bd.png)
+![image](https://user-images.githubusercontent.com/104715127/183386538-27d3bb50-f59c-45e9-87f0-6cc734fa42f9.png)
