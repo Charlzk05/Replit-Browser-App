@@ -1,7 +1,7 @@
 ## Replit Browser App
 Replit Desktop Browser App with C# Cefsharp Winforms
 
-- [Download Here (Releases)](https://github.com/Charlzk05/Replit-Browser-App/releases)
+- [Download Here (Releases) - Windows Only](https://github.com/Charlzk05/Replit-Browser-App/releases)
 
 ### Packages
 - Cefsharp.Winforms
